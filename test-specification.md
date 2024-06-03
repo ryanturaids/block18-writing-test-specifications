@@ -88,7 +88,7 @@
   - if `any user` changes the quantity of an item in their cart to "0", it will be removed from the cart
 #### Continuing to checkout
   - if `any user` selects "checkout" on their cart they will be prompted with a message asking if they are sure they are ready to continue to checkout
-  - if `any user   selects "checkout" with an empty cart, they will be prompted with a message letting them know to add items to their cart before continuing
+  - if `any user`   selects "checkout" with an empty cart, they will be prompted with a message letting them know to add items to their cart before continuing
   - if `guest user` selects "checkout" on their cart they will be prompted to create or log into an account to save their checkout information
   - if `guest user` enters checkout, they will see an alternate checkout page than a `registered user`
 #### Collecting information
